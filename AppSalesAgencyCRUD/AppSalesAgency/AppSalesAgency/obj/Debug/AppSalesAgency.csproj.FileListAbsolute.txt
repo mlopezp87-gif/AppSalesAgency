@@ -1,0 +1,26 @@
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\bin\Debug\AppSalesAgency.exe.config
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\bin\Debug\AppSalesAgency.exe
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\bin\Debug\AppSalesAgency.pdb
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.csproj.AssemblyReference.cache
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.Form1.resources
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.Properties.Resources.resources
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.csproj.GenerateResource.cache
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.csproj.CoreCompileInputs.cache
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.exe
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.pdb
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.exe.config
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.FrmMenuPrincipal.resources
+C:\Users\Bilder Fuentes\Documents\UMG_DOCUMENTS\UMG 2026\4 Programacion III\SESIONES DE CLASE\ProyectosViualStudio2026\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.FrmCliente.resources
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\bin\Debug\AppSalesAgency.exe.config
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\bin\Debug\AppSalesAgency.exe
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\bin\Debug\AppSalesAgency.pdb
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.exe.config
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.Form1.resources
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.FrmCliente.resources
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.FrmMenuPrincipal.resources
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.exe
+C:\Users\ADMIN\Downloads\AppSalesAgencyCRUD\AppSalesAgency\AppSalesAgency\obj\Debug\AppSalesAgency.pdb
